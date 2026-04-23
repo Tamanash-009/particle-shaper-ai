@@ -17,6 +17,9 @@ A real-time interactive 3D particle system controlled using hand gestures via Me
 - JavaScript
 
 ## How to Use
+## Live Demo
+https://particle-shaper-ai.vercel.app
+
 1. Open index.html in browser
 2. Allow camera access
 3. Use hand gestures:
@@ -31,3 +34,4 @@ A real-time interactive 3D particle system controlled using hand gestures via Me
 
 ## License
 MIT
+
